@@ -1,6 +1,8 @@
+LLVM-4.0 Pathed for win and compile vs2022
+
 Please have a look at the [wiki](https://github.com/obfuscator-llvm/obfuscator/wiki)!
 
-Current version: [LLVM-4.0](https://github.com/obfuscator-llvm/obfuscator/tree/llvm-4.0)
+Current version: [LLVM-4.0](https://github.com/HellishDeath0/obfuscator-llvm4-vs2022/tree/llvm4-win)
 
 You can cite Obfuscator-LLVM using the following Bibtex entry:
 
